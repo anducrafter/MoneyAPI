@@ -1,2 +1,2 @@
 # MoneyAPI
-A moneyapi for free
+This is my own money API System is also my first Money System 
