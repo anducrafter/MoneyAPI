@@ -1,0 +1,11 @@
+name: Money
+version: '${project.version}'
+main: ch.andu.economymanger.Money
+authors: [ anducrafter ]
+description: The Money System of SkySucht
+commands:
+  pay:
+  money:
+  moneytop:
+  eco:
+
