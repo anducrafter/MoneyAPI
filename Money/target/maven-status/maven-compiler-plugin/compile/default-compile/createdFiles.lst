@@ -1,7 +1,0 @@
-ch\andu\economymanger\commands\EconomyCommand.class
-ch\andu\economymanger\sqlmanager\RankinSql.class
-ch\andu\economymanger\lisstener\JoinLisstener.class
-ch\andu\economymanger\Money.class
-ch\andu\economymanger\datasource\HirackleCP.class
-ch\andu\economymanger\sqlmanager\Sql.class
-ch\andu\economymanger\datasource\datasourceconfig.class
